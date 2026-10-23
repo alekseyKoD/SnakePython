@@ -20,7 +20,7 @@ deltaY=snakeHead
 
 
 directionX=1
-directionY=0
+directionY=1
 borderWidth=snakeHead
 
 # Настройка экрана
